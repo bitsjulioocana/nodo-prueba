@@ -9,6 +9,6 @@ let mainService = axios.create({
   headers: {
     'Access-Control-Allow-Origin': '*'
   }
-})
+});
 
 export default mainService
