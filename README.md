@@ -31,7 +31,7 @@ npm install
 Para ejecutar la aplicación del ejercicio #02, una vez ubicado en la raiz de la carpeta debes ejecutar el siguiente comando:
 
 ```sh
-npm run dev
+npm run serve
 ```
 
 Automáticamente se te abrirá en tu navegador una vista específicamente en la url "http://localhost:8080/"
